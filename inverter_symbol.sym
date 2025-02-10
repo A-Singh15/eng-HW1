@@ -1,0 +1,13 @@
+* Symbol for CMOS inverter
+* AVDD - Power, AVSS - Ground, VIN - Input, VOUT - Output
+
+Version 1.0
+Symbol
+{
+    Cell "inverter"
+    Library "Test"
+    Input "VIN"
+    Output "VOUT"
+    Power "AVDD"
+    Ground "AVSS"
+}
